@@ -5,6 +5,10 @@
     Hello, great developer 🖖
 </h1>
 
+![Followers][Github followers]
+
+[Github followers]: https://img.shields.io/github/followers/Watts8bits?color=red&logo=github&logoColor=white&style=for-the-badge
+
 <p>
     <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
     style="margin-top:20px; margin-right:3px;"
