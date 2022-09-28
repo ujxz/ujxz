@@ -5,7 +5,7 @@
 </p>
 
 ~~~json
-´ {
+{
   "name": "Jabes Eduardo",
   "pronouns": "~(his/he)",
   "age": "14y",
@@ -21,4 +21,4 @@
   "programming languages": "Html, Css, Javascript, 
   Java, Git, sql",
   "langs": "Portuguese and English",
-} ´
+} 
