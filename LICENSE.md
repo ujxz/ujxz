@@ -1,9 +1,8 @@
 ## Watts8bits
 Minha conta oficial do Github!
 ---
-### Por que ela foi criada?
-para  salvar meus repositorios
-
+### Quando estou online?
+De segunda a sexta
 ~~~json
 ´ {
   "name": "Jabes Eduardo",
