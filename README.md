@@ -1,5 +1,5 @@
 <p>
-    <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  style="margin-top:10px; margin-right:3px;"
+    <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  style="margin-top: 10px; margin-right: 3px;"
     height="316px"
     align="left">
 </p>
@@ -21,4 +21,4 @@
   "programming languages": "Html, Css, Javascript, 
   Java, Git, sql",
   "langs": "Portuguese and English",
-} 
+}
