@@ -49,7 +49,7 @@ const Watts8bits = {
 
 <p align="center" >
     <img alt="Rocketseat" src="./assets/BoostingPeople.jpg"  
-    style="width: 700px; height: 200px;"
+    style="width: 800px; height: 200px;"
     height="320px"
     >
 </p>
