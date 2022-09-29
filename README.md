@@ -14,7 +14,7 @@
     <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
     style="margin-top:20px; margin-right:3px;"
     height="320px"
-    align="left">
+    align="right">
 </p>
 
 ~~~javascript
@@ -46,3 +46,12 @@ const Watts8bits = {
 [LinkedIn]: https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&logoColor=blue&style=plastic&url=https%3A%2F%2Fshields.io
 [Telegram]: https://img.shields.io/twitter/url?color=blue&label=Telegram&logo=Telegram&style=plastic&url=https%3A%2F%2Fshields.io
 [Twitter]: https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Fshields.io
+
+<p align="center" >
+    <img alt="Rocketseat" src="./assets/BoostingPeople.jpg"  
+    style="width: 620px; height: 200px;"
+    height="320px"
+    >
+</p>
+
+---
