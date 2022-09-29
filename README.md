@@ -19,18 +19,20 @@
 
 ~~~javascript
 const Watts8bits = {
-  "name": "Jabes Eduardo",
-  "pronouns": "~(his/he)",
-  "age": "14y",
-  "Educational status": "Fundamental 8",
-  "work": "freelancer",
-  "city": "Tianguá, CE, BR",
-  "personal status": "studying, Job, developing",
+  name: "Jabes Eduardo",
+  pronouns: "~(his/he)",
+  age: 14,
+  educationalStatus: "Fundamental 8",
+  work: "freelancer",
+  city: "Tianguá, CE, BR",
+  personalStatus: "studying, Job, developing",
 
-  "Interests": [ React js, Swift, C, C++... I like anime and manga, I play guitar and I play calistenia ],
+  interests: [ Ruby, Elixir, Swift, C, C++... 
+  I like anime and manga, 
+  I play guitar and I play calistenia ],
 
-  "programming languages": { Html, Css, Javascript, Java, Git, sql }
-  "langs": "Portuguese and English",
+  programmingLanguages: ( Html, Css, Javascript, Java, Git, sql )
+  langs: "Portuguese and English",
 }
 
 ~~~
