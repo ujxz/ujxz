@@ -25,13 +25,13 @@ const Watts8bits = {
   educationalStatus: "Fundamental 8",
   work: "freelancer",
   city: "Tianguá, CE, BR",
-  personalStatus: "studying, Job, developing",
+  personalStatus: "studying, Expecializing, developing",
 
-  interests: [ Ruby, Elixir, Swift, C, C++... 
-  I like anime and manga, 
-  I play guitar and I play calistenia ],
+  interests: [ Ruby, Elixir, Swift, C, C++ ... 
+  I like anime and manga 📓 , 
+  I play guitar 🎸 ],
 
-  programmingLanguages: ( Html, Css, Javascript, Java, Git, sql )
+  programmingLanguages: (`${Html, Css, Javascript, Java, Git, Sql}`)
   langs: "Portuguese and English",
 }
 
