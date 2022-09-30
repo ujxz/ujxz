@@ -58,10 +58,11 @@ const Watts8bits = {
 
 ---
 
-<img title="Enchanting Table" alt="Enchanting_Table" src="./assets/Enchanting_Table.gif"
-   height="40px">
 
-<h1 style="margin-left: 50px; margin-top: -50px">
+
+<h1>
+    <img title="Enchanting Table" alt="Enchanting_Table" src="./assets/Enchanting_Table.gif"
+    height="35px">
     Top languages
 </h1>
 
