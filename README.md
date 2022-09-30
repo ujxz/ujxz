@@ -49,7 +49,7 @@ const Watts8bits = {
 [Twitter]: https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Fshields.io
 
 # Publics Projects 
-- [Eclipse](https://github.com/Watts8bits/Project-moon) | **BETA**
+- [Eclipse](https://github.com/Watts8bits/Eclipse) | **BETA**
 - [Snake Game](https://github.com/Watts8bits/Snake-Game)
 ---
 
