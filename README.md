@@ -1,8 +1,11 @@
-<h1>
-    <img title="Pickaxe" alt="Pickaxe" src="./assets/End_crystal.gif" align="center" 
-    height="40px">
-    Hello, great developer 🖖
-</h1>
+<img 
+title="End crystal" alt="End crystal" 
+src="./assets/Enchanting_Table.gif" 
+height="60px">
+
+# Hello, great developer 🖖
+## Software Enginner & Disigner
+---
 
 ![Followers][Github followers] ![Watchers][Github watchers]
 
