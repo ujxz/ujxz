@@ -1,6 +1,5 @@
 <h1>
-    <img alt="Coroa de Louros" src="./assets/coroadelouros.jpg" style="border: 4px solid purple"
-    align="center" 
+    <img title="Pickaxe" alt="Pickaxe" src="./assets/End_crystal.gif" align="center" 
     height="40px">
     Hello, great developer 🖖
 </h1>
