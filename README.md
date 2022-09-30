@@ -48,13 +48,9 @@ const Watts8bits = {
 [Telegram]: https://img.shields.io/twitter/url?color=blue&label=Telegram&logo=Telegram&style=plastic&url=https%3A%2F%2Fshields.io
 [Twitter]: https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&style=plastic&url=https%3A%2F%2Fshields.io
 
-<p align="center" >
-    <img alt="Rocketseat" src="./assets/BoostingPeople.jpg"  
-    style="width: 800px; height: 200px;"
-    height="320px"
-    >
-</p>
-
+# Publics Projects 
+- [Eclipse](https://github.com/Watts8bits/Project-moon) | **BETA**
+- [Snake Game](https://github.com/Watts8bits/Snake-Game)
 ---
 
 <h1>
