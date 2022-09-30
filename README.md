@@ -5,7 +5,6 @@
 </h1>
 
 ## Software Enginner & Disigner
----
 
 ![Followers][Github followers] ![Watchers][Github watchers]
 
@@ -57,8 +56,6 @@ const Watts8bits = {
 </p>
 
 ---
-
-
 
 <h1>
     <img title="Enchanting Table" alt="Enchanting_Table" src="./assets/Enchanting_Table.gif"
