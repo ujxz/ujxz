@@ -1,7 +1,6 @@
 <h1>
-   <img title="End crystal" alt="End crystal" src="./assets/Enchanting_Table.gif" 
-   style="top: 13px; position: relative;" 
-   height="60px">
+   <img title="End crystal" alt="End_crystal" src="./assets/End_crystal.gif"
+   height="40px">
    Hello, great developer 🖖
 </h1>
 
@@ -58,3 +57,21 @@ const Watts8bits = {
 </p>
 
 ---
+
+<img title="Enchanting Table" alt="Enchanting_Table" src="./assets/Enchanting_Table.gif"
+   height="40px">
+
+<h1 style="margin-left: 50px; margin-top: -50px">
+    Top languages
+</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watts8bits&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>
+   <img title="Pickaxe" alt="Pickaxe" src="./assets/Pickaxe.png"
+   height="30px">
+   It's not that good, but it's a good start
+</h1>
+
+
+![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
