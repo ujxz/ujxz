@@ -1,9 +1,10 @@
-<img 
-title="End crystal" alt="End crystal" 
-src="./assets/Enchanting_Table.gif" 
-height="60px">
+<h1>
+   <img title="End crystal" alt="End crystal" src="./assets/Enchanting_Table.gif" 
+   style="top: 13px; position: relative;" 
+   height="60px">
+   Hello, great developer 🖖
+</h1>
 
-# Hello, great developer 🖖
 ## Software Enginner & Disigner
 ---
 
