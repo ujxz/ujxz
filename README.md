@@ -54,7 +54,7 @@ Java and C++ student, I like manga and reggae music";
 
 # Publics Projects 
 - [Eclipse](https://github.com/Watts8bits/Eclipse) | **BETA**
-- [Snake Game](https://github.com/Watts8bits/Snake-Game)
+- [Snake Game](https://github.com/Watts8bits/Snake)
 ---
 
 ![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
