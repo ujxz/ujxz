@@ -18,24 +18,28 @@
     align="right">
 </p>
 
-~~~javascript
-const Watts8bits = {
-  name: "Jabes Eduardo",
-  pronouns: "~(his/he)",
-  age: 14,
-  educationalStatus: "Fundamental 8",
-  work: "freelancer",
-  city: "Tianguá, CE, BR",
-  personalStatus: "studying, Expecializing, developing",
+~~~java
+package dev.watts;
 
-  interests: [ Ruby, Elixir, Swift, C, C++ ... 
-  I like anime and manga 📓 , 
-  I play guitar 🎸 ],
+public static void main(String[] args) {
 
-  programmingLanguages: (`${Html, Css, Javascript, Java, Git, Sql}`)
-  langs: "Portuguese and English",
+  String name = "Jabes Eduardo";
+  String age = "14";
+  String work = "Software Engineer";
+  String city = "Tianguá CE BR";
+  String languages = "javascript, java, C++, C#";
+  /// And also other markup languages ​​like HTML and graphic design, CSS
+
 }
 
+private static void main(String[] args) {
+
+  String personalStatus =  "studying, Expecializing, developing";
+  String interests = "Web Developer,
+Java and C++ student, I like manga and reggae music";
+
+  String langs = "Portuguese and English";
+}
 ~~~
 
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/jear.code/)
@@ -53,19 +57,7 @@ const Watts8bits = {
 - [Snake Game](https://github.com/Watts8bits/Snake-Game)
 ---
 
-<h1>
-    <img title="Enchanting Table" alt="Enchanting_Table" src="./assets/Enchanting_Table.gif"
-    height="35px">
-    Top languages
-</h1>
-
+![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watts8bits&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>
-   <img title="Pickaxe" alt="Pickaxe" src="./assets/Pickaxe.png"
-   height="30px">
-   It's not that good, but it's a good start
-</h1>
 
-
-![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
