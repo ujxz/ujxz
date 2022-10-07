@@ -14,7 +14,7 @@
 <p>
     <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
     style="margin-top:20px; margin-right:3px;"
-    height="320px"
+    height="390px"
     align="right">
 </p>
 
