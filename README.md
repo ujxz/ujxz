@@ -1,7 +1,7 @@
 <h1>
    <img title="End crystal" alt="End_crystal" src="./assets/End_crystal.gif"
    height="40px">
-   Hello, great developer 🖖
+   🖖 Hello, great developer 
 </h1>
 
 ## Software Enginner & Disigner
@@ -57,7 +57,8 @@ Java and C++ student, I like manga and reggae music";
 - [Snake Game](https://github.com/Watts8bits/Snake)
 ---
 
-![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watts8bits&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Jabes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts8bits&show_icons=true&theme=dracula)
+
 
 
