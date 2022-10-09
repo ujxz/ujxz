@@ -1,7 +1,7 @@
 <h1>
+   🖖 Hello, great developer 
    <img title="End crystal" alt="End_crystal" src="./assets/End_crystal.gif"
    height="40px">
-   🖖 Hello, great developer 
 </h1>
 
 ## Software Enginner & Disigner
