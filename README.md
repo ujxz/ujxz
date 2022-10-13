@@ -18,27 +18,23 @@
     align="right">
 </p>
 
-~~~java
-package dev.watts;
+~~~json
+{
+  "name": "Jabes Eduardo",
+  "pronouns": "~(his/he)",
+  "age": "14y",
+  "Educational status": "Fundamental 8",
+  "work": "freelancer",
+  "location": {
+  "city": "Tianguá", 
+  "state": "CE", 
+  "country": "BR"},
+  "personal status": "studying, Job, developing",
 
-public static void main(String[] args) {
+  "Interests": " React js, Swift, C, C++... I like anime and manga, I play guitar and I play calistenia ",
 
-  String name = "Jabes Eduardo";
-  String age = "14";
-  String work = "Software Engineer";
-  String city = "Tianguá CE BR";
-  String languages = "javascript, java, C++, C#";
-  /// And also other markup languages ​​like HTML and graphic design, CSS
-
-}
-
-private static void main(String[] args) {
-
-  String personalStatus =  "studying, Expecializing, developing";
-  String interests = "Web Developer,
-Java and C++ student, I like manga and reggae music";
-
-  String langs = "Portuguese and English";
+  "programming languages": ["Html", "Css", "Javascript", "Java", "Git", "sql"],
+  "langs": "Portuguese and English",
 }
 ~~~
 
