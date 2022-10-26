@@ -1,6 +1,6 @@
 <p>
     <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
-    style="margin-top:20px; margin-right:3px;"
+    style="margin-top:40px; margin-right:3px;"
     height="450px"
     align="right">
 </p>
