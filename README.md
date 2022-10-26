@@ -1,7 +1,7 @@
 <p>
     <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
     style="margin-top:20px; margin-right:3px;"
-    height="390px"
+    height="450px"
     align="right">
 </p>
 
@@ -22,8 +22,8 @@
   "country": "BR"},
   "personal status": "studying, Job, developing",
 
-  "Interests": " 
-  React js, Swift, C, C++... 
+  "Interests": 
+  "React js, Swift, C, C++... 
   I like anime and manga, 
   I play guitar and 
   I play calistenia ",
