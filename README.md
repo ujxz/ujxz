@@ -32,3 +32,11 @@
   "langs": "Portuguese and English",
 }
 ~~~
+
+[![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
+[![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
+[![Jabez's Twitter][Twitter]](https://twitter.com/Watts_8bits)
+
+[Instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
+[LinkedIn]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
+[Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWatts_8bits
