@@ -29,7 +29,8 @@
   I play guitar and 
   I play calistenia ",
 
-  "programming languages": ["Html", "Css", "Javascript", "Java", "Git", "sql"],
+  "programming languages": 
+  ["Html", "Css", "Javascript", "Java", "Git", "sql"],
   "langs": "Portuguese and English",
 }
 ~~~
