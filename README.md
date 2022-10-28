@@ -7,7 +7,7 @@
 <p>
     <img alt="Jesus Cristo Salvador" src="./assets/jesus.jpg"  
     style="margin-top:40px; margin-right:3px;"
-    height="400px"
+    height="450px"
     align="right">
 </p>
 
