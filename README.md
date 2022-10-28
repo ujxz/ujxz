@@ -1,8 +1,7 @@
 <p>
-    <img alt="Apostolo Paulo" src="./assets/Paulo.jpg"  
+    <img alt="Jesus Cristo Salvador" src="./assets/jesus.jpg"  
     style="margin-top:40px; margin-right:3px;"
-    width="370px"
-    height="490px"
+    height="440px"
     align="right">
 </p>
 
