@@ -7,7 +7,7 @@
 </p>
 
 <h1>
-    Hey, bro ✌️
+    Hey bro ✌️, how are you? 
 </h1>
 
 ~~~json
@@ -37,7 +37,7 @@
 
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
 [![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
-[![Jabez's Twitter][Twitter]](https://twitter.com/Watts_8bits)
+[![Jabez's Twitter][Twitter]](https://twitter.com/WwProsa)
 
 [Instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
 [LinkedIn]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
