@@ -7,7 +7,7 @@
 <p>
     <img alt="Jesus Cristo Salvador" src="./assets/jesus.jpg"  
     style="margin-top:40px; margin-right:3px;"
-    height="460px"
+    height="400px"
     align="right">
 </p>
 
@@ -36,6 +36,7 @@
 }
 ~~~
 
+## Links
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
 [![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
 [![Jabez's Twitter][Twitter]](https://twitter.com/WwProsa)
