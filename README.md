@@ -28,9 +28,7 @@ const zProsa.dev = {
 }
 ~~~
 ## Languages
-<img src="./assets/javascript.png" height="30px">
-<img src="./assets/Typescript.png" height="30px">
-<img src="./assets/nodejs.svg" height="30px">
+<img src="./assets/javascript.png" height="30px"><img src="./assets/Typescript.png" height="30px"><img src="./assets/nodejs.svg" height="30px">
 
 ## Links
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
