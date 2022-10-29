@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="./assets/Apostolo_Paulo.jpg"/>
-<h1 align="left">Hey bro <img src="./assets/Typescript.png" height="30px">, how are you?</h1>
+<h1 align="left">Hey bro <img src="./assets/End_crystal.gif" height="30px">, how are you?</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zPros&color=green" alt="Profile views" /> </p>
 
 <!--
@@ -27,6 +27,11 @@ const zProsa.dev = {
   "langs": "Portuguese and English",
 }
 ~~~
+## Languages
+<img src="./assets/javascript.png" height="30px">
+<img src="./assets/Typescript.png" height="30px">
+<img src="./assets/nodejs.svg" height="30px">
+
 ## Links
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
 [![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
