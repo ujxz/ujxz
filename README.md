@@ -1,15 +1,15 @@
-<h1>
-    Hey bro ✌️, how are you? 
-    <img src="assets/End_crystal.gif"
-    height="30px" />
-</h1>
-
 <p>
     <img alt="Jesus Cristo Salvador" src="./assets/jesus.jpg"  
     style="margin-top:40px; margin-right:3px;"
     height="480px"
     align="right">
 </p>
+
+<h1>
+    Hey bro ✌️, how are you? 
+    <img src="assets/End_crystal.gif"
+    height="30px" />
+</h1>
 
 ~~~json
 {
