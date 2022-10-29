@@ -1,12 +1,8 @@
 <img align="right" height="590em" src="./assets/jesus.jpg"/>
 <h1 align="left">Hey bro <img src="./assets/End_crystal.gif" height="30px">, how are you?</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zPros&color=yellow" alt="Profile views" /> </p>
-<!-- <p>
-    <img alt="Jesus Cristo Salvador" src="./assets/jesus.jpg"  
-    style="margin-top:40px; margin-right:3px;"
-    height="480px"
-    align="right">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zPros&color=green" alt="Profile views" /> </p>
+
+<!--
 
 <h1>
     Hey bro ✌️, how are you? 
