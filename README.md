@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="./assets/jesus.jpg"/>
-<h1 align="left">Hey bro <img src="./assets/End_crystal.gif" height="30px">, how are you?</h1>
+<img align="right" height="590em" src="./assets/Apostolo_paulo.jpg"/>
+<h1 align="left">Hey bro <img src="./assets/Typescript.png" height="30px">, how are you?</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zPros&color=green" alt="Profile views" /> </p>
 
 <!--
