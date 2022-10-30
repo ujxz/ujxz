@@ -27,8 +27,8 @@ const zProsa.dev = {
   "langs": "Portuguese and English",
 }
 ~~~
-## Languages
-<img src="./assets/javascript.png" height="30px">  <img src="./assets/Typescript.png" height="30px">  <img src="./assets/nodejs.svg" height="30px">
+<!-- ## Languages
+<img src="./assets/javascript.png" height="30px">  <img src="./assets/Typescript.png" height="30px">  <img src="./assets/nodejs.svg" height="30px"> -->
 
 ## Links
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
@@ -37,4 +37,4 @@ const zProsa.dev = {
 
 [Instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
 [LinkedIn]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
-[Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWatts_8bits
+[Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWatts_8bits 
