@@ -23,7 +23,7 @@ const zProsa.dev = {
 <img src="./assets/javascript.png" height="30px">  <img src="./assets/Typescript.png" height="30px">  <img src="./assets/nodejs.svg" height="30px"> -->
 
 ## Links
-[![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.ww/)
+[![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.z/)
 [![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
 [![Jabez's Twitter][Twitter]](https://twitter.com/WwProsa)
 
