@@ -7,14 +7,14 @@ const zProsa.dev = {
   name: "Jabes Eduardo",
   pronouns: "~(his/he)",
   age: 14,
-  Educational status: "Fundamental 8",
+  EducationalStatus: "Fundamental 8",
   work: "freelancer",
   city: "Tianguá", 
   state: "CE",
   country: "BR",
-  personal status: "studying, Job, developing",
+  personalStatus: "studying, Job, developing",
 
-  programming languages: 
+  programmingLanguages: 
   ["Html", "Css", "Javascript", "Java", "Git", "sql"],
   "langs": "Portuguese and English",
 }
@@ -29,4 +29,4 @@ const zProsa.dev = {
 
 [Instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
 [LinkedIn]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
-[Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWatts_8bits 
+[Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWwProsa 
