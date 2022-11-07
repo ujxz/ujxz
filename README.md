@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="./assets/Apostolo_Paulo.jpg"/>
-<h1 align="left">Hey bro <img src="./assets/End_crystal.gif" height="30px">, how are you?</h1>
+<h1 align="left">Hey bro , how are you?<img src="./assets/End_crystal.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zProsa&color=green" alt="Profile views" /> </p> 
 
 ~~~javascript
