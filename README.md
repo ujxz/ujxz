@@ -26,7 +26,9 @@ const zProsa.dev = {
 [![Jabez's Instagram][Instagram]](https://www.instagram.com/prosa.z/)
 [![Jabez's LinkedIn][LinkedIn]](https://www.linkedin.com/in/jabes-eduardo-029035252/)
 [![Jabez's Twitter][Twitter]](https://twitter.com/WwProsa)
+[![Jabez's Yotube][Youtube]](https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ/featured)
 
 [Instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
 [LinkedIn]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
 [Twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWwProsa 
+[Youtube]: https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC3H0MX-GhakAIebnc6CiNPQ%2Ffeatured
