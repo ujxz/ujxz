@@ -6,11 +6,11 @@
 [![Jabez's Yotube][youtube]](https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ/featured)
 [![Jabez's TryHackMe][tryhackme]](https://tryhackme.com/p/Prsa)
 
-[instagram]: https://img.shields.io/badge/Instagram-845AE6?style=flat&labelColor=845AE6&logo=instagram&logoColor=white&link=https://www.instagram.com/prosa.z/
-[linkedin]: https://img.shields.io/badge/LinkedIn-845AE6?style=flat&labelColor=845AE6&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prosa-shell/
-[twitter]: https://img.shields.io/badge/Twitter-845AE6?style=flat&labelColor=845AE6&logo=twitter&logoColor=white&link=https://twitter.com/WwProsa
-[youtube]: https://img.shields.io/badge/Youtube-845AE6?style=flat&labelColor=845AE6&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
-[tryhackme]: https://img.shields.io/badge/TryHackMe-845AE6?style=flat&labelColor=845AE6&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa
+[instagram]: https://img.shields.io/badge/Instagram-845AE6?style=flat&labelColor=black&logo=instagram&logoColor=white&link=https://www.instagram.com/prosa.z/
+[linkedin]: https://img.shields.io/badge/LinkedIn-845AE6?style=flat&labelColor=black&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prosa-shell/
+[twitter]: https://img.shields.io/badge/Twitter-845AE6?style=flat&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/WwProsa
+[youtube]: https://img.shields.io/badge/Youtube-845AE6?style=flat&labelColor=black&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
+[tryhackme]: https://img.shields.io/badge/TryHackMe-845AE6?style=flat&labelColor=black&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa
 
 ```javascript
 const zProsa.dev = {
