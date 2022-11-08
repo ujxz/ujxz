@@ -5,10 +5,10 @@
 [![Jabez's Twitter][twitter]](https://twitter.com/WwProsa)
 [![Jabez's Yotube][youtube]](https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ/featured)
 
-[instagram]: https://img.shields.io/twitter/url?color=black&label=Instagram&logo=instagram&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fprosa.ww%2F
-[linkedin]: https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjabes-eduardo-029035252%2F
-[twitter]: https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FWwProsa
-[youtube]: https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC3H0MX-GhakAIebnc6CiNPQ%2Ffeatured
+[instagram]: https://img.shields.io/badge/-Prosa.z-845AE6?style=flat-square&labelColor=845AE6&logo=instagram&logoColor=white&link=https://www.instagram.com/prosa.z/
+[linkedin]: https://img.shields.io/badge/Prosa-845AE6?style=flat-square&labelColor=845AE6&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prosa-shell/
+[twitter]: https://img.shields.io/badge/-@WwProsa-845AE6?style=flat-square&labelColor=845AE6&logo=twitter&logoColor=white&link=https://twitter.com/WwProsa
+[youtube]: https://img.shields.io/badge/-Prosa-845AE6?style=flat-square&labelColor=845AE6&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
 
 ```javascript
 const zProsa.dev = {
