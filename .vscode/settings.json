@@ -1,0 +1,20 @@
+{
+    "editor.wordWrap": "on",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 30,
+    "editor.tabSize": 2,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    
+    "explorer.compactFolders": false,
+
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Omni",
+
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "window.zoomLevel": -1
+}
