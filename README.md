@@ -1,4 +1,4 @@
-<img align="right" height="390em" src="./assets/Apostolo_Paulo.jpg"/>
+<img align="right" height="350em" src="./assets/Apostolo_Paulo.jpg"/>
 
 ```javascript
 const zProsa.dev = {
