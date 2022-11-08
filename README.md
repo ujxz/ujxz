@@ -1,5 +1,3 @@
-<img align="right" height="350em" src="./assets/Apostolo_Paulo.jpg"/>
-
 ```javascript
 const zProsa.dev = {
   name: "Jabes Eduardo",
@@ -17,6 +15,8 @@ const zProsa.dev = {
   "langs": "Portuguese and English",
 }
 ```
+
+<img align="right" height="390em" src="./assets/Apostolo_Paulo.jpg"/>
 
 ## Contact
 
