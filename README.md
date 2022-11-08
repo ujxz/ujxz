@@ -1,4 +1,4 @@
-<img align="left" height="380em" src="./assets/Apostolo_Paulo.jpg"/>
+<img align="right" height="380em" src="./assets/Apostolo_Paulo.jpg"/>
 
 [![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.z/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
