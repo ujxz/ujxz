@@ -10,7 +10,7 @@
 [youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
 [tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa05122A
 
-<img align="right" height="350em" src="./assets/Apostolo_Paulo.jpg"/>
+<img align="right" height="315em" src="./assets/Apostolo_Paulo.jpg"/>
 
 ```javascript
 const zProsa.dev = {
