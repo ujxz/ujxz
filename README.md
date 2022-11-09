@@ -1,4 +1,4 @@
-<img align="right" height="380em" src="./assets/Apostolo_Paulo.jpg" sizes="(max-width: 320px) 280px,(max-width: 480px) 440px, 800px"/>
+<img align="right" height="399em" src="./assets/Apostolo_Paulo.jpg"/>
 
 [![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.z/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
