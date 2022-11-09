@@ -1,5 +1,3 @@
-<img align="right" height="370em" src="./assets/Apostolo_Paulo.jpg"/>
-
 [![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.z/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
 [![Jabez's Twitter][twitter]](https://twitter.com/WwProsa)
@@ -11,6 +9,8 @@
 [twitter]: https://img.shields.io/badge/Twitter-05091A?style=flat&labelColor=05093A&logo=twitter&logoColor=white&link=https://twitter.com/WwProsa
 [youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
 [tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa05122A
+
+<img align="right" height="350em" src="./assets/Apostolo_Paulo.jpg"/>
 
 ```javascript
 const zProsa.dev = {
