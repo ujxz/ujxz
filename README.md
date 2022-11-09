@@ -31,5 +31,3 @@ const zProsa.dev = {
   "langs": "Portuguese and English",
 }
 ```
-
-<script src="https://tryhackme.com/badge/1457829"></script>
