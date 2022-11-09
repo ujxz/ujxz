@@ -32,4 +32,4 @@ const zProsa.dev = {
 }
 ```
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Prsa.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1457829"></script>
