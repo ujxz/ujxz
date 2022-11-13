@@ -3,13 +3,13 @@
 [![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.ww/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
 [![Jabez's Twitter][twitter]](https://twitter.com/0x2z87)
-[![Jabez's Yotube][youtube]](https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ/featured)
+[![Jabez's Yotube][youtube]](https://www.youtube.com/@RandomAfk)
 [![Jabez's TryHackMe][tryhackme]](https://tryhackme.com/p/Prsa)
 
 [instagram]: https://img.shields.io/badge/Instagram-05091A?style=flat&labelColor=05093A&logo=instagram&logoColor=white&link=https://www.instagram.com/prosa.ww/
 [linkedin]: https://img.shields.io/badge/LinkedIn-05091A?style=flat&labelColor=05093A&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prosa-shell/
 [twitter]: https://img.shields.io/badge/Twitter-05091A?style=flat&labelColor=05093A&logo=twitter&logoColor=white&link=https://twitter.com/0x2z87
-[youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=/https://www.youtube.com/channel/UC3H0MX-GhakAIebnc6CiNPQ
+[youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=https://www.youtube.com/@RandomAfk
 [tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa05122A
 
 ---
