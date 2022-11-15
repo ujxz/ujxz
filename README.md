@@ -10,9 +10,8 @@
 [linkedin]: https://img.shields.io/badge/LinkedIn-05091A?style=flat&labelColor=05093A&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/prosa-shell/
 [twitter]: https://img.shields.io/badge/Twitter-05091A?style=flat&labelColor=05093A&logo=twitter&logoColor=white&link=https://twitter.com/0x2z87
 [youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=https://www.youtube.com/@Onmi.
-[tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa05122A
 
----
+## [tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Prsa05122A
 
 ```javascript
 const zProsa.dev = {
