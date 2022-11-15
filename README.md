@@ -3,7 +3,7 @@
 [![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.ww/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
 [![Jabez's Twitter][twitter]](https://twitter.com/0x2z87)
-[![Jabez's Yotube][youtube]](https://www.youtube.com/@RandomAfk)
+[![Jabez's Yotube][youtube]](https://www.youtube.com/@Onmi.)
 [![Jabez's TryHackMe][tryhackme]](https://tryhackme.com/p/Prsa)
 
 [instagram]: https://img.shields.io/badge/Instagram-05091A?style=flat&labelColor=05093A&logo=instagram&logoColor=white&link=https://www.instagram.com/prosa.ww/
