@@ -1,6 +1,6 @@
 <img align="right" height="382em" src="./assets/Apostolo_Paulo.jpg"/>
 
-[![Jabez's Instagram][instagram]](https://www.instagram.com/prosa.ww/)
+[![Jabez's Instagram][instagram]](https://www.instagram.com/real_omni/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
 [![Jabez's Twitter][twitter]](https://twitter.com/0x2z87)
 [![Jabez's Yotube][youtube]](https://www.youtube.com/@Onmi.)
