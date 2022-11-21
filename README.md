@@ -1,4 +1,4 @@
-<img align="right" height="382em" src="./assets/Apostolo_Paulo.jpg"/>
+<!-- <img align="right" height="382em" src="./assets/Apostolo_Paulo.jpg"/> -->
 
 [![Jabez's Instagram][instagram]](https://www.instagram.com/real_prosa/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
@@ -14,7 +14,7 @@
 
 ---
 
-```javascript
+<!-- ```javascript
 const zProsa.dev = {
   name: "Jabes Eduardo",
   pronouns: "~(his/he)",
@@ -30,4 +30,4 @@ const zProsa.dev = {
   ["Html", "Css", "Javascript", "Java", "Git", "sql"],
   "langs": "Portuguese and English",
 }
-```
+``` -->
