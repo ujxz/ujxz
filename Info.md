@@ -1,3 +1,4 @@
+<!--
 [![Jabez's Instagram][instagram]](https://www.instagram.com/jabs.xp/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
 [![Jabez's Twitter][twitter]](https://twitter.com/Prosa_xp)
@@ -14,7 +15,7 @@
 
 ---
 
-<!-- ```javascript
+```javascript
 const zProsa.dev = {
   name: "Jabes Eduardo",
   pronouns: "~(his/he)",
