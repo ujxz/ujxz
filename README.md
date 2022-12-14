@@ -9,7 +9,3 @@
 [twitter]: https://img.shields.io/badge/Twitter-05091A?style=flat&labelColor=05093A&logo=twitter&logoColor=white&link=https://twitter.com/Kodaiwya
 [youtube]: https://img.shields.io/badge/Youtube-05091A?style=flat&labelColor=05093A&logo=youtube&logoColor=white&link=https://www.youtube.com/@Kodaiwya
 [tryhackme]: https://img.shields.io/badge/TryHackMe-05091A?style=flat&labelColor=05093A&logo=TryHackMe&logoColor=white&link=https://tryhackme.com/p/Kodaiwya
-
-<img align="bottom" height="243em" src="./assets/carregamento.gif"/>
-
----
