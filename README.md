@@ -1,7 +1,7 @@
-[![Jabez's Instagram][instagram]](https://www.instagram.com/jabs.xp/)
+[![Jabez's Instagram][instagram]](https://www.instagram.com/kodaiwya/)
 [![Jabez's LinkedIn][linkedin]](https://www.linkedin.com/in/prosa-shell/)
-[![Jabez's Twitter][twitter]](https://twitter.com/Prosa_xp)
-[![Jabez's Yotube][youtube]](https://www.youtube.com/@Prosa.)
+[![Jabez's Twitter][twitter]](https://twitter.com/Kodaiwya)
+[![Jabez's Yotube][youtube]](https://www.youtube.com/@Kodaiwya)
 [![Jabez's TryHackMe][tryhackme]](https://tryhackme.com/p/Prsa)
 
 [instagram]: https://img.shields.io/badge/Instagram-05091A?style=flat&labelColor=05093A&logo=instagram&logoColor=white&link=https://www.instagram.com/kodaiwya/
