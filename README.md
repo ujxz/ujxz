@@ -1,4 +1,4 @@
-<img align="right" height="480em" src="./assets/Apostolo_Paulo.jpg"/>
+<img align="left" height="480em" src="./assets/Apostolo_Paulo.jpg"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi Dev, I'm Kodai </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kodaiwya&color=red" alt="Profile views" /> </p>
 
