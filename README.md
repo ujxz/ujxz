@@ -1,4 +1,4 @@
-<img align="left" height="480em" src="./assets/Apostolo_Paulo.jpg"/>
+<img align="right" height="480em" src="./assets/Apostolo_Paulo.jpg"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi Dev, I'm Kodai </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kodaiwya&color=red" alt="Profile views" /> </p>
 
@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Experience
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,7 +35,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=vision-friendly-dark" alt="Kodai's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## Contact
 
