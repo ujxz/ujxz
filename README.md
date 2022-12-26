@@ -31,8 +31,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=onedark" alt="Kodai's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=onedark" alt="Kodai's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=tokyonight" alt="Kodai's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=tokyonight" alt="Kodai's most languages"/>
 </p>
 
 <br>
