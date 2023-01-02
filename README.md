@@ -7,7 +7,7 @@
 <h4 align="center">look at this status</h4>
 
 <p align="center">
-    <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=swift&layout=compact">
+    <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=prussian&layout=compact">
 </p>
 
 <h4 align="center">Contact me</h4>
