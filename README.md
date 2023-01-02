@@ -10,12 +10,6 @@
     <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=swift&layout=compact">
 </p>
 
-<h4 align="center">Top Languages</h4>
-
-<p align="center">
-    <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=swift">
-</p>
-
 <h4 align="center">Contact me</h4>
 
 <p align="center" style="background:black">
