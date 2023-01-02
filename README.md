@@ -2,18 +2,18 @@
     <img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
 </h4>
 
-<h1 align="center">Welcome Visitors!<h1>
+<h2 align="center">Welcome Visitors!<h2>
 
 <h4 align="center">look at this status</h4>
 
 <p align="center">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=swift&layout=compact">
+    <img width="480px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=swift&layout=compact">
 </p>
 
 <h4 align="center">Top Languages</h4>
 
 <p align="center">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=swift">
+    <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=swift">
 </p>
 
 <h4 align="center">Contact me</h4>
