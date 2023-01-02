@@ -1,5 +1,19 @@
 <h1 align="center">Welcome Visitors!<h1>
 
+<h4 align="center">look at this status</h4>
+
+<p align="center">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=swift&layout=compact">
+</p>
+
+<h4 align="center">Top Languages</h4>
+
+<p align="center">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kodaiwya&layout=compact&theme=swift">
+</p>
+
+<h4 align="center">Contact me</h4>
+
 <p align="center" style="background:black">
   <a href="https://twitter.com/Kodaiwya" target="_blank">
     <img width="4%" align="center" src="./src/twitter.svg" alt="twitter"/>  
