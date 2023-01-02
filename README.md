@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">
+<h4 align="center">
     Visitors Count <br>
     <img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
-</p>
+</h4>
