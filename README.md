@@ -1,5 +1,3 @@
-<img src="">
-
 # Hello Everyone 👋
 
 <p align="left">
