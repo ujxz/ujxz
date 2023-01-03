@@ -1,6 +1,5 @@
-<p align="center">Views<p>
-
 <h4 align="center">
+    <h1 align="center">Views<h1>
     <img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
 </h4>
 
