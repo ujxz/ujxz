@@ -8,7 +8,9 @@
 
 ### 📋 Random Note
 
-`Even if I speak the language of men, and speak the language of angels, without love I would be nothing.`
+`Even if I speak the language of men, 
+and speak the language of angels, 
+without love I would be nothing. ~ Paul of Tarsus`
 
 ### 📲 Contact me
 
