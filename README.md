@@ -1,8 +1,35 @@
-<p align="center" style="font-size:50px">Views<p>
+<img src="">
 
-<h4 align="center">
-    <img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
-</h4>
+# Hello Everyone 👋
+
+<p align="left">
+    <img width="460px" src="https://github-readme-stats.vercel.app/api?username=Kodaiwya&show_icons=true&theme=prussian&layout=compact">
+</p>
+
+<p align="left" style="background:black">
+  <a href="https://twitter.com/Kodaiwya" target="_blank">
+    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  </a>
+  <a href="https://linkedin.com/in/Kodaiwya" target="_blank">
+    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/Kodaiwya" target="_blank">
+    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+
+
+
+
+
+
+
+
+
+
+<!-- # Hello Everyone
+
+<img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
+
 
 <h4 align="center">look at this status</h4>
 
@@ -22,4 +49,4 @@
   <a href="https://instagram.com/Kodaiwya" target="_blank">
     <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-</p>
+</p> -->
