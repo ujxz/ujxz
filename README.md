@@ -1,8 +1,8 @@
+<h2 align="center">Views<h2>
+
 <h4 align="center">
     <img src="https://profile-counter.glitch.me/Kodaiwya/count.svg" width="30%">
 </h4>
-
-<h2 align="center">Welcome Visitors!<h2>
 
 <h4 align="center">look at this status</h4>
 
