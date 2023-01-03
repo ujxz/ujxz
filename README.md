@@ -14,11 +14,11 @@ without love I would be nothing. ~ Paul of Tarsus`
 
 <p align="left" style="background:black">
   <a href="https://twitter.com/Kodaiwya" target="_blank">
-    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=twitter" alt="twitter"/>  
+    <img width="90px" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="https://linkedin.com/in/Kodaiwya" target="_blank">
-    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img width="90px" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/Kodaiwya" target="_blank">
-    <img width="10%" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=instagram" alt="instagram"/>
+    <img width="90px" align="center" src="https://img.shields.io/badge/-Kodaiwya-00000A?style=flat&logo=instagram" alt="instagram"/>
   </a>
