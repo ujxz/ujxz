@@ -1,4 +1,5 @@
-<img align="right" height="590em" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png"/>
+<img align="right" height="400
+em" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Jabes Eduardo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvbwzz&color=yellow" alt="Profile views" /> </p>
 
