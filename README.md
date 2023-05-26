@@ -1,7 +1,11 @@
-<p>Needing some time...</p>
-<img src="lgr.gif" alt="linha">
-<img scr="Dinogame.gif">
+<p>Needing some time... <img src="img/skull.gif" 
+width="40px">
+</p>
 
+<img src="img/lgr.gif">
+<br>
+
+![Mario](img/mario.gif)
 <!--
 **jvbwzz/jvbwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
