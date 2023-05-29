@@ -1,7 +1,15 @@
+
 <p>Needing some time...</p>
 <img src="img/lgr.gif">
 <br>
-<img src="img/mario.gif" width="400px">
+
+```shell
+#!/bin/bash
+
+jvb="information systems and student of GNU/Linux"
+
+```
+
 <!--
 **jvbwzz/jvbwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
