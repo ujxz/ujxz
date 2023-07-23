@@ -8,5 +8,5 @@ When not behind a keyboard, I am into listening to music, watching movies, or be
 
  Feel free to contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeedw/)](https://www.linkedin.com/in/yeedw/)
-[![Gmail Badge](https://img.shields.io/badge/-yeedwcontato@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:yeedwcontato@gmail.com)](mailto:yeedwcontato@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yeedw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeedw/)](https://www.linkedin.com/in/yeedw/)
+[![Gmail Badge](https://img.shields.io/badge/-yeedw@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:yeedwcontato@gmail.com)](mailto:yeedwcontato@gmail.com)
