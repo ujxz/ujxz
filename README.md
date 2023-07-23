@@ -1,24 +1,12 @@
+### Hi there 👋
 
-<p>Needing some time...</p>
-<img src="img/lgr.gif">
-<br>
+My name's is Jabes.
 
-```shell
-#!/bin/bash
+I am a Full-Stack Web Engineer. I enjoy creating UI/UX-driven products. I am also interested in web performance, best engineering practices and OSS. Currently, my tech stack includes NextJS, ReactJS, and TypeScript.
 
-jvb="information systems and student of GNU/Linux"
+When not behind a keyboard, I am into listening to music, watching movies, or being lost in my thoughts while driving.
 
-```
+ Feel free to contact me via:
 
-<!--
-**jvbwzz/jvbwzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-liamle07-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeedw/)](https://www.linkedin.com/in/yeedw/)
+[![Gmail Badge](https://img.shields.io/badge/-yeedwcontato@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:yeedwcontato@gmail.com)](mailto:yeedwcontato@gmail.com)
