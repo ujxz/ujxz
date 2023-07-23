@@ -2,9 +2,9 @@
 
 My name's is Jabes.
 
-I am a Full-Stack Web Engineer. I enjoy creating UI/UX-driven products. I am also interested in web performance, best engineering practices and OSS. Currently, my tech stack includes NextJS, ReactJS, and TypeScript.
+I am a systems developer and programmer with a passion for GNU/Linux, I'm also an editor, 3D designer and guitarist. I'm quite interested in Python and GoLang. My current stack: Javascript, Shell Script, Python, Java and C lenguage
 
-When not behind a keyboard, I am into listening to music, watching movies, or being lost in my thoughts while driving.
+When I have my break I like to listen to music, watch series, play my games and relax
 
  Feel free to contact me via:
 
