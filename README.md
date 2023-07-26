@@ -8,5 +8,5 @@ When I have my break I like to listen to music, watch series, play my games and 
 
  Feel free to contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yeedw-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeedw/)](https://www.linkedin.com/in/yeedw/)
-[![Gmail Badge](https://img.shields.io/badge/-yeedw@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:yeedwcontato@gmail.com)](mailto:yeedwcontato@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-norentt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/norentt/)](https://www.linkedin.com/in/norentt/)
+[![Gmail Badge](https://img.shields.io/badge/-norenttcomercial@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:norenttcomercial@gmail.com)](mailto:norenttcomercial@gmail.com)
