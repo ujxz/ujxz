@@ -12,9 +12,9 @@ When I have my break I like to listen to music, watch series, play my games and 
 [![Gmail Badge](https://img.shields.io/badge/-norenttcomercial@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:norenttcomercial@gmail.com)](mailto:norenttcomercial@gmail.com)
 
 ~~~lua
-local Norentt = {
-  norentt = {
-    name = "Jabes Eduardo (Axel)",
+local Apoley = {
+  apoley = {
+    name = "Jabes Eduardo (Apolo)",
     pronouns = {"he", "him"},
     age = 15,
     work_place = "Nutrilite",
