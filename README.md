@@ -8,8 +8,8 @@ When I have my break I like to listen to music, watch series, play my games and 
 
  Feel free to contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-norentt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/norentt/)](https://www.linkedin.com/in/norentt/)
-[![Gmail Badge](https://img.shields.io/badge/-norenttcomercial@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:norenttcomercial@gmail.com)](mailto:norenttcomercial@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-apoley-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoley/)](https://www.linkedin.com/in/apoley/)
+[![Gmail Badge](https://img.shields.io/badge/-apoley@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:kodaiwya@gmail.com)](mailto:kodaiwya@gmail.com)
 
 ~~~lua
 local Apoley = {
