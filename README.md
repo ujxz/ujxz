@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name's is Jabes or also __Axel__.
+My name's is Jabes or also __Apoley__.
 
 I am a systems developer and programmer with a passion for **GNU/Linux**, I'm also an editor, 3D designer and guitarist. I'm quite interested in Ruby and GoLang. My current stack: Javascript, ReactJS, Shell Script, Java and C lenguage
 
