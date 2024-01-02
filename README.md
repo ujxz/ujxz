@@ -8,7 +8,7 @@ When I have my break I like to listen to music, watch series, play my games and 
 
  Feel free to contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-apoley-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jake/)](https://www.linkedin.com/in/jake/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jake-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jake/)](https://www.linkedin.com/in/jake/)
 [![Gmail Badge](https://img.shields.io/badge/-jake@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:kodaiwya@gmail.com)](mailto:kodaiwya@gmail.com)
 
 ~~~lua
