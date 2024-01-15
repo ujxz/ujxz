@@ -14,7 +14,7 @@ local Jabtwq = {
     age = 15,
     work_place = "...",
     interests = {"ObjectOrientedProgramming", "DataAnalysis", "PenetrationTesting"},
-    city = "Tianguá, CE, BR",
+    city = "********",
     langs = {"portuguese", "english", "Hebrew"}
   }
 }
