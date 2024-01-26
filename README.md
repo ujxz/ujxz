@@ -15,7 +15,7 @@ local Jabtwq = {
     work_place = "...",
     interests = {"ObjectOrientedProgramming", "DataAnalysis", "PenetrationTesting"},
     city = "********",
-    langs = {"portuguese", "english", "Hebrew"}
+    langs = {"portuguese", "english"}
   }
 }
 
