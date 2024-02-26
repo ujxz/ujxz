@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## twq
 My name's is Jabes.
 
 I am a systems developer and programmer with a passion for **GNU/Linux**, I'm also an editor, 3D designer and guitarist. I'm quite interested in Ruby and GoLang. My current stack: Javascript, Shell Script, Java and C lenguage
