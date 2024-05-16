@@ -2,7 +2,7 @@
 
 Most of my codes on GitHub are for entertainment, and others are tools I use for Penetration Testing. I mainly code in [Python](https://www.python.org/), [F#](https://fsharp.org/) and [Go](https://golang.org/). 
 
-I play the HackTheBox and TryHackMe infosec learning platforms, I'm on the red team. Find me on there as ujx. My personal email address is [jabfx@gmail.com](mailto:jabfx@gmail.com).
+I play the HackTheBox and TryHackMe infosec learning platforms, I'm on the red team. Find me on there as ujx. My personal email address is [jabfxcomercial@gmail.com](mailto:jabfxcomercial@gmail.com).
 
 And.., yes I'm Brazilian :)
 
